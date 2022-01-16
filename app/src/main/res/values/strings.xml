@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Arun</string>
+    <string name="yello_star">Yello star</string>
+    <string name="bio">My bio
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line one
+    \n line two
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+</resources>
